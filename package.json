@@ -1,0 +1,23 @@
+{
+  "name": "module3-assignment",
+  "version": "1.0.0",
+  "description": "asynchronous programming in node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "API",
+    "Promises",
+    "Asynchronous"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
+}
